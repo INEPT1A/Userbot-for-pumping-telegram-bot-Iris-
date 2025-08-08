@@ -1,0 +1,10 @@
+[package]
+name = "userbot"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+grammers-client = "0.4"
+grammers-session = "0.4"
+tokio = { version = "1", features = ["full"] }
+dotenvy = "0.15"
