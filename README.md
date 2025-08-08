@@ -2,7 +2,7 @@
 
 Этот юзербот каждые 4 часа отправляет сообщение `"фарма"` в заданный чат.
 
-## 🚀 Запуск в Termux
+## 🚀 Запуск в Termux // Linux
 ```bash
 pkg install rust git
 https://github.com/INEPT1A/Userbot-for-pumping-telegram-bot-Iris-.git
@@ -16,7 +16,7 @@ ________________________________________
 
 This userbot sends a message `"pharma"` to a given chat every 4 hours.
 
-## 🚀 Launch in Termux
+## 🚀 Launch in Termux // Linux
 ```bash
 pkg install rust git
 git clone https://github.com/INEPT1A/Userbot-for-pumping-telegram-bot-Iris-.git
